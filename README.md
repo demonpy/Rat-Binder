@@ -21,10 +21,10 @@ press Enter
 2. now set your path of payload you want bind ;)
 press Enter
 
-wait to finish pyinstaller working :)
+ wait to finish pyinstaller working :)
 
-now your binded rat is in /dist folder
+ now your binded rat is in /dist folder
 
-change icon by sourcehack
+ change icon by sourcehack
 
-send rat to your target :0
+ send rat to your target :0
